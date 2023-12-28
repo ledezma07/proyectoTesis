@@ -35,6 +35,9 @@
             <a class="nav-link" href="#">ENLACES</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="acercade.php">ACERCA DE</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link disabled" aria-disabled="true">CARTELERA</a>
           </li>
           <li class="nav-item dropdown">
